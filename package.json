@@ -1,5 +1,5 @@
 {
-  "name": "security-context",
+  "name": "@docknetwork/security-context",
   "version": "4.0.1-0",
   "description": "Security Context",
   "main": "js",

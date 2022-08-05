@@ -5,7 +5,7 @@ const constants = exports.constants = require('./constants.js');
 
 contexts.set(
   constants.SECURITY_CONTEXT_V1_URL,
-  require('../contexts/security-v1.jsonld'));
+  require('../contexts/security-v1.json'));
 contexts.set(
   constants.SECURITY_CONTEXT_V2_URL,
-  require('../contexts/security-v2.jsonld'));
+  require('../contexts/security-v2.json'));
